@@ -56,7 +56,3 @@ Access the API documentation at `http://localhost:8000/docs`
 1. **Efficient Caching**: Reduces API calls and server load
 2. **Async Operations**: Optimizes resource usage
 3. **Carbon Impact Calculation**: Raises awareness about environmental impact
-
-## Contributing
-
-Feel free to submit issues and pull requests to improve the service.
