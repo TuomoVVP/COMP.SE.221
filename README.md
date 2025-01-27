@@ -19,8 +19,8 @@ A sustainable weather microservice that provides weather data and environmental 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/eco-weather-service
-cd eco-weather-service
+git clone https://github.com/TuomoVVP/COMP.SE.221
+cd COMP.SE.221
 ```
 
 2. Create and activate virtual environment:
