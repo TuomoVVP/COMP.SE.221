@@ -1,0 +1,13 @@
+What I Have Done:
+I created a Python script that combines data from two different APIs: 
+one providing hourly electricity prices and another providing wind power generation data. 
+The goal is to analyze whether there is a correlation between electricity prices 
+and wind power generation.
+
+Sources:
+Electricity Price API: ENTSO-E Transparency Platform
+Wind Power Generation API: OpenWeatherMap
+
+AI use:
+I did use AI for getting ideas for what APIs I could combine. AI also helped me 
+to debug the code.
